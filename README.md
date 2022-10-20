@@ -11,9 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Blog](https://www.noormohammad.live/)
+- 🔭 currently working on [Personal Blog -  related Cyber Security](https://www.noormohammad.live/)
 
-- 🌱 I’m currently learning **Nextjs, React Native, GraphQL**
+- 🌱 I’m currently learning **Nextjs, Sanity.io**
+
+- 🌱 Looking forward to learn RUST in future
 
 - 👨‍💻 All of my projects are available at [https://noormohmmad.com/](https://noormohmmad.com/)
 

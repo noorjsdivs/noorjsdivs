@@ -1,6 +1,6 @@
 ![MasterHead](https://imgs.search.brave.com/mT2PNe561Ko7Wdl56YqTzhYTTkrwe1-n_EO_1U10WPE/rs:fit:1200:840:1/g:ce/aHR0cHM6Ly9zdGF0/aWMxLm1ha2V1c2Vv/ZmltYWdlcy5jb20v/d29yZHByZXNzL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzEx/L2Rhcmstd2FsbHBh/cGVycy5qcGc)
 <h1 align="center">Hi 👋, I'm Noor Mohammad</h1>
-<h3 align="center">A Full Stack Developer with agog appetite of Coding!</h3>
+<h3 align="center">A MERN Stack Developer with agog appetite of Coding!</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
@@ -11,15 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 currently working on [Personal Blog -  related Cyber Security](https://www.noormohammad.live/)
+- 🔭 currently working on [Personal Blog - related to React Development & Cyber Security](https://www.noormohammad.live/)
 
-- 🌱 I’m currently learning **Nextjs, Sanity.io**
+- 🌱 Exercising [Nextjs, Sanity.io] along the way.
 
-- 🌱 Looking forward to learn RUST in future
+- 🌱 Looking forward to learn [RUST] in future.
+
+- 🌱 Find excitement learning [Blockchain] with javaScript.
 
 - 👨‍💻 All of my projects are available at [https://noormohmmad.com/](https://noormohmmad.com/)
 
 - 📫 How to reach me **noor.jsdivs@gmail.com**
+
+- 📄 Best way to master the code is handle the [Error] efficiently.
 
 - 📄 Know about my experiences [https://noormohmmad.com/](https://noormohmmad.com/)
 

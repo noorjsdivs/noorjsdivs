@@ -15,9 +15,9 @@
 
 - 🌱 Exercising [Nextjs, Sanity.io] along the way.
 
-- 🌱 Looking forward to learn [RUST] in future.
+- 🌱 Looking forward to learn [RUST](https://www.rust-lang.org/) in future.
 
-- 🌱 Find excitement learning [Blockchain] with javaScript.
+- 🌱 Find excitement learning [Blockchain](https://www.blockchain.com/) with javaScript.
 
 - 👨‍💻 All of my projects are available at [https://noormohmmad.com/](https://noormohmmad.com/)
 

@@ -13,7 +13,7 @@
 
 - 🔭 Projects & Profile [Personal Portfolio](https://www.noormohammad.live/)
 
-- 🌱 Exercising [Nextjs, Sanity.io] along the way.
+- 🌱 Exercising [Nextjs, Tailwindcss, Next-auth, Sanity.io] along the way.
 
 - 🌱 Looking forward to learn [RUST](https://www.rust-lang.org/) in future.
 
@@ -23,9 +23,13 @@
 
 - 📫 How to reach me **noor.jsdivs@gmail.com**
 
+-  📫 Business chat **reactbd@proton.me**
+
+- Professional websites [ReactBD.com](https://reactbd.com/)
+
 - 📄 Best way to master the code is handle the [Error] efficiently.
 
-- 📄 Know about my experiences [https://noormohmmad.com/](https://noormohmmad.com/)
+- 📄 Know about my experiences [https://www.noormohammad.live/]([https://noormohmmad.com/](https://www.noormohammad.live/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 currently working on [Personal Blog - related to React Development & Cyber Security](https://www.noormohammad.live/)
+- 🔭 Projects & Profile [Personal Portfolio](https://www.noormohammad.live/)
 
 - 🌱 Exercising [Nextjs, Sanity.io] along the way.
 
@@ -19,7 +19,7 @@
 
 - 🌱 Find excitement learning [Blockchain](https://www.blockchain.com/) with javaScript.
 
-- 👨‍💻 All of my projects are available at [https://noormohmmad.com/](https://noormohmmad.com/)
+- 👨‍💻 Recent blog [Personal Blog - related to React Development & Cyber Security](https://noormohmmad.com/)
 
 - 📫 How to reach me **noor.jsdivs@gmail.com**
 

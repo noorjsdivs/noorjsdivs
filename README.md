@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Projects & Profile [Personal Portfolio]([https://www.noormohammad.live/](https://noormohammad.reactbd.com/))
+- 🔭 Projects & Profile [Personal Portfolio](https://noormohammad.reactbd.com/))
 
 - 🌱 Exercising [Nextjs, Tailwindcss, Next-auth, Sanity.io] along the way.
 
@@ -19,7 +19,7 @@
 
 - 🌱 Find excitement learning [Blockchain](https://www.blockchain.com/) with javaScript.
 
-- 👨‍💻 Recent blog [Personal Blog - related to React Development & Cyber Security]([https://noormohmmad.com/](https://blog.reactbd.com/))
+- 👨‍💻 Recent blog [Personal Blog - related to React Development & Cyber Security](https://blog.reactbd.com/)
 
 - 📫 How to reach me **noor.jsdivs@gmail.com**
 

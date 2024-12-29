@@ -90,9 +90,8 @@ app.post('/api/tasks', async (req, res) => {
 app.listen(5000, () => console.log('Server running on port 5000'));
 ```
 
-### [Amazon Clone](https://buymeacoffee.com/shop)
-- **Tech Stack:** Next.js, Tailwind CSS, Stripe
-- **Description:** A fully functional e-commerce application.
+### [Get my projects from the shop](https://buymeacoffee.com/reactbd/extras)
+- **Tech Stack:** Next.js, Tailwind CSS, Stripe, Motion and lot others more
 
 ---
 

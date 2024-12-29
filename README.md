@@ -1,5 +1,9 @@
+# Noor Mohammad
+
+![Profile Views](https://komarev.com/ghpvc/?username=noor-mohammad-2&label=Profile%20views&color=0e75b6&style=flat)
+
 <div align="center">
-  <pre style="font-family: 'Courier New', monospace; font-size: 10px; line-height: 1;">
+  <pre class="ascii-art">
  _   _                 __  __       _                                   _ 
 | \ | | ___   ___  _ _|  \/  | ___ | |__   __ _ _ __ ___  _ __ ___   __ _ __| |
 |  \| |/ _ \ / _ \| '__| |\/| |/ _ \| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _` / _` |
@@ -10,26 +14,48 @@
   <h2>
     <code>console.log('Full-Stack Developer | MERN Enthusiast 🚀')</code>
   </h2>
-
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
-
-  <p>
-    <a href="https://noormohammad.reactbd.com/" target="_blank"><img src="https://img.shields.io/badge/🚀_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://blog.reactbd.com/" target="_blank"><img src="https://img.shields.io/badge/💻_Blog-0A0A0A?style=for-the-badge&logoColor=white" alt="Blog" /></a>
-    <a href="mailto:noor.jsdivs@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email" /></a>
-  </p>
 </div>
 
 ---
 
-### Code Snippets
+## 🌐 About Me
+
+Hi! I'm Noor Mohammad, a passionate **Full-Stack Developer** specializing in modern web development technologies. My expertise lies in building dynamic, responsive, and scalable applications. I have a keen interest in the **MERN stack**, **React**, and **Next.js**, and I'm always eager to explore new tools and technologies.
+
+### Portfolio
+🔗 [Check out my portfolio](https://noormohammad.reactbd.com/)
+
+### Blog
+📘 [Visit my blog](https://blog.reactbd.com/) for in-depth articles and tutorials on web development.
+
+---
+
+## 🚀 Skills & Expertise
+
+### Development
+- 💻 Full-Stack Development
+- 🌐 MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- ⚛️ React.js & Next.js
+- 🎨 Tailwind CSS & Styled Components
+
+### Other Areas
+- 🔒 Cyber Security
+- ⛓️ Blockchain (Learning)
+- 🛠️ REST & GraphQL APIs
+- 📦 State Management (Redux, Zustand)
+
+---
+
+## 🛠️ Featured Projects
+
+### [Responsive Portfolio Website](https://portfolio2024.reactbd.com/)
+- **Tech Stack:** React.js, Tailwind CSS, Framer Motion
+- **Description:** A sleek, responsive portfolio website showcasing my work and skills.
+
+### MERN Stack To-Do App Example
+- **Backend:** Express.js, MongoDB
+- **Frontend:** React.js, Axios
+- **Code Snippet:**
 
 ```javascript
 // Backend: Express server (server.js)
@@ -64,21 +90,26 @@ app.post('/api/tasks', async (req, res) => {
 app.listen(5000, () => console.log('Server running on port 5000'));
 ```
 
----
-
-### Skills Table
-
-| 💻 Full-Stack Development | 🌐 MERN Stack           | ⚛️ React & Next.js     |
-|---------------------------|-------------------------|------------------------|
-| 🎨 Tailwind CSS           | 🔒 Cyber Security       | ⛓️ Blockchain (Learning) |
-
-### Skills List
-
-- 💻 Full-Stack Development
-- 🌐 MERN Stack
-- ⚛️ React & Next.js
-- 🎨 Tailwind CSS
-- 🔒 Cyber Security
-- ⛓️ Blockchain (Learning)
+### [Amazon Clone](https://buymeacoffee.com/shop)
+- **Tech Stack:** Next.js, Tailwind CSS, Stripe
+- **Description:** A fully functional e-commerce application.
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noor-mohammad-2&show_icons=true&theme=radical" alt="Noor Mohammad's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-mohammad-2&theme=radical" alt="Noor Mohammad's GitHub streak" />
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/noor-mohammad-ab2245216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/noormohammad_me" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/noor-mohammad-2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:noor.jsdivs@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email" /></a>
+</div>

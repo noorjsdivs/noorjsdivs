@@ -12,7 +12,7 @@
   </pre>
 
   <h2>
-    <code>console.log('Full-Stack Developer | MERN Enthusiast 🚀')</code>
+    <code>console.log('Software Engineer | MERN Enthusiast 🚀')</code>
   </h2>
 </div>
 
@@ -46,16 +46,8 @@ Hi! I'm Noor Mohammad, a passionate **Full-Stack Developer** specializing in mod
 
 ---
 
-## 🛠️ Featured Projects
-
-### [Responsive Portfolio Website](https://portfolio2024.reactbd.com/)
-- **Tech Stack:** React.js, Tailwind CSS, Framer Motion
-- **Description:** A sleek, responsive portfolio website showcasing my work and skills.
-
-### MERN Stack To-Do App Example
-- **Backend:** Express.js, MongoDB
-- **Frontend:** React.js, Axios
-- **Code Snippet:**
+### [Get my projects from the shop](https://buymeacoffee.com/reactbd/extras)
+- **Tech Stack:** Next.js, Tailwind CSS, Stripe, Motion and lot others more
 
 ```javascript
 // Backend: Express server (server.js)
@@ -89,9 +81,6 @@ app.post('/api/tasks', async (req, res) => {
 
 app.listen(5000, () => console.log('Server running on port 5000'));
 ```
-
-### [Get my projects from the shop](https://buymeacoffee.com/reactbd/extras)
-- **Tech Stack:** Next.js, Tailwind CSS, Stripe, Motion and lot others more
 
 ---
 

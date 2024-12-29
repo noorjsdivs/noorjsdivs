@@ -32,18 +32,18 @@ Hi! I'm Noor Mohammad, a passionate **Software Engineer** specializing in modern
 
 ## 🚀 Skills & Expertise
 
-### Development
-- 💻 Full-Stack Development
-- 🌐 MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- ⛓️ Mobile Application Development (React Native, Expo)
-- ⚛️ React.js & Next.js
-- 🎨 Tailwind CSS & Styled Components
+### 💻 Development
+- Full-Stack Development  
+- MERN Stack: MongoDB, Express.js, React.js, Node.js  
+- React Native for Mobile Apps  
+- React.js & Next.js for SPAs and SSR  
+- Tailwind CSS & Styled Components  
 
-### Other Areas
-- 🔒 Cyber Security
-- ⛓️ Blockchain (Learning)
-- 🛠️ REST & GraphQL APIs
-- 📦 State Management (Redux, Zustand)
+### 🔧 Other Skills
+- Cyber Security  
+- Blockchain (Currently Learning)  
+- REST & GraphQL APIs  
+- State Management: Redux, Zustand 
 
 ---
 

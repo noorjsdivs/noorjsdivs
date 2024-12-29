@@ -2,17 +2,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=noor-mohammad-2&label=Profile%20views&color=0e75b6&style=flat)
 
-<div align="center">
-  <pre class="ascii-art">
- _   _                 __  __       _                                   _ 
-| \ | | ___   ___  _ _|  \/  | ___ | |__   __ _ _ __ ___  _ __ ___   __ _ __| |
-|  \| |/ _ \ / _ \| '__| |\/| |/ _ \| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _` / _` |
-| |\  | (_) | (_) | |  | |  | | (_) | | | | (_| | | | | | | | | | | | (_| \__,_|
-|_| \_|\___/ \___/|_|  |_|  |_|\___/|_| |_|\__,_|_| |_| |_|_| |_| |_|\__,_\__,_|
+<div align="center" style="font-family: 'Courier New', Courier, monospace; color: #0e75b6; background: #f5f7fa; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
+  <pre style="font-size: 14px; line-height: 1.4em; color: #0d6efd;">
+<span style="color: #dc3545;"> _   _                 __  __       _                                   _ </span>
+<span style="color: #28a745;">| \ | | ___   ___  _ _|  \/  | ___ | |__   __ _ _ __ ___  _ __ ___   __ _ __| |</span>
+<span style="color: #fd7e14;">|  \| |/ _ \ / _ \| '__| |\/| |/ _ \| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _` / _` |</span>
+<span style="color: #20c997;">| |\  | (_) | (_) | |  | |  | | (_) | | | | (_| | | | | | | | | | | | (_| \__,_|</span>
+<span style="color: #6f42c1;">|_| \_|\___/ \___/|_|  |_|  |_|\___/|_| |_|\__,_|_| |_| |_|_| |_| |_|\__,_\__,_|</span>
   </pre>
 
-  <h2>
-    <code>console.log('Software Engineer | MERN Enthusiast 🚀')</code>
+  <h2 style="margin-top: 20px;">
+    <code style="color: #212529; font-size: 18px;">console.log('Software Engineer | MERN Enthusiast 🚀')</code>
   </h2>
 </div>
 

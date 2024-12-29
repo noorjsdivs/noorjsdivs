@@ -82,13 +82,3 @@ app.listen(5000, () => console.log('Server running on port 5000'));
 - ⛓️ Blockchain (Learning)
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noor-mohammad-2&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-mohammad-2&theme=radical" alt="GitHub streak" />
-</p>

@@ -1,5 +1,5 @@
 <div align="center">
-  <pre class="ascii-art">
+  <pre style="font-family: 'Courier New', monospace; font-size: 10px; line-height: 1;">
  _   _                 __  __       _                                   _ 
 | \ | | ___   ___  _ _|  \/  | ___ | |__   __ _ _ __ ___  _ __ ___   __ _ __| |
 |  \| |/ _ \ / _ \| '__| |\/| |/ _ \| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _` / _` |
@@ -27,10 +27,11 @@
   </p>
 </div>
 
-<div class="container">
-  <h2 align="center"><code>$ cat mern_stack_example.js</code></h2>
+---
 
-  <pre class="code-content">
+### Code Snippets
+
+```javascript
 // Backend: Express server (server.js)
 const express = require('express');
 const mongoose = require('mongoose');
@@ -61,165 +62,33 @@ app.post('/api/tasks', async (req, res) => {
 });
 
 app.listen(5000, () => console.log('Server running on port 5000'));
+```
 
-// Frontend: React component (TaskList.js)
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+---
 
-const TaskList = () => {
-  const [tasks, setTasks] = useState([]);
-  const [newTask, setNewTask] = useState('');
+### Skills Table
 
-  useEffect(() => {
-    fetchTasks();
-  }, []);
+| 💻 Full-Stack Development | 🌐 MERN Stack           | ⚛️ React & Next.js     |
+|---------------------------|-------------------------|------------------------|
+| 🎨 Tailwind CSS           | 🔒 Cyber Security       | ⛓️ Blockchain (Learning) |
 
-  const fetchTasks = async () => {
-    const res = await axios.get('http://localhost:5000/api/tasks');
-    setTasks(res.data);
-  };
+### Skills List
 
-  const addTask = async (e) => {
-    e.preventDefault();
-    await axios.post('http://localhost:5000/api/tasks', { title: newTask, completed: false });
-    setNewTask('');
-    fetchTasks();
-  };
+- 💻 Full-Stack Development
+- 🌐 MERN Stack
+- ⚛️ React & Next.js
+- 🎨 Tailwind CSS
+- 🔒 Cyber Security
+- ⛓️ Blockchain (Learning)
 
-  return (
-    &lt;div&gt;
-      &lt;h1&gt;Task List&lt;/h1&gt;
-      &lt;form onSubmit={addTask}&gt;
-        &lt;input
-          type="text"
-          value={newTask}
-          onChange={(e) => setNewTask(e.target.value)}
-          placeholder="New task"
-        /&gt;
-        &lt;button type="submit"&gt;Add Task&lt;/button&gt;
-      &lt;/form&gt;
-      &lt;ul&gt;
-        {tasks.map((task) => (
-          &lt;li key={task._id}&gt;{task.title}&lt;/li&gt;
-        ))}
-      &lt;/ul&gt;
-    &lt;/div&gt;
-  );
-};
+---
 
-export default TaskList;
-  </pre>
+### GitHub Stats
 
-  <h2 align="center"><code>$ ls ./skills</code></h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noor-mohammad-2&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-  <div class="skill-grid">
-    <div class="skill-item">💻 Full-Stack Development</div>
-    <div class="skill-item">🌐 MERN Stack</div>
-    <div class="skill-item">⚛️ React &amp; Next.js</div>
-    <div class="skill-item">🎨 Tailwind CSS</div>
-    <div class="skill-item">🔒 Cyber Security</div>
-    <div class="skill-item">⛓️ Blockchain (Learning)</div>
-  </div>
-
-  <h2 align="center"><code>$ git stats</code></h2>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=noor-mohammad-2&show_icons=true&theme=radical" alt="Noor Mohammad's GitHub stats" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-mohammad-2&theme=radical" alt="Noor Mohammad's GitHub streak" />
-  </p>
-
-  <h2 align="center"><code>$ echo "Let's connect!"</code></h2>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/noor-mohammad-ab2245216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/noormohammad_me" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://github.com/noor-mohammad-2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=noor-mohammad-2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-</div>
-
-<style>
-  .ascii-art {
-    font-family: 'Courier New', Courier, monospace;
-    white-space: pre;
-    display: inline-block;
-    font-size: 10px;
-    line-height: 1;
-    background: linear-gradient(45deg, #ff00ff, #00ffff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient 5s ease-in-out infinite;
-    background-size: 300% 300%;
-  }
-
-  @keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #1e1e1e;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    color: #d4d4d4;
-  }
-
-  .code-content {
-    background-color: #2d2d2d;
-    color: #d4d4d4;
-    padding: 20px;
-    border-radius: 5px;
-    font-family: 'Fira Code', monospace;
-    font-size: 14px;
-    line-height: 1.5;
-    overflow-x: auto;
-  }
-
-  .skill-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 15px;
-    margin-top: 20px;
-  }
-
-  .skill-item {
-    background-color: #2d2d2d;
-    padding: 15px;
-    border-radius: 5px;
-    text-align: center;
-    font-weight: bold;
-    transition: transform 0.2s ease-in-out;
-  }
-
-  .skill-item:hover {
-    transform: translateY(-5px);
-  }
-
-  h2 {
-    margin-top: 40px;
-    margin-bottom: 20px;
-    color: #61dafb;
-  }
-
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-mohammad-2&theme=radical" alt="GitHub streak" />
+</p>

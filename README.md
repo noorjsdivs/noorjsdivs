@@ -20,7 +20,7 @@
 
 ## 🌐 About Me
 
-Hi! I'm Noor Mohammad, a passionate **Full-Stack Developer** specializing in modern web development technologies. My expertise lies in building dynamic, responsive, and scalable applications. I have a keen interest in the **MERN stack**, **React**, and **Next.js**, and I'm always eager to explore new tools and technologies.
+Hi! I'm Noor Mohammad, a passionate **Software Engineer** specializing in modern web development technologies. My expertise lies in building dynamic, responsive, and scalable applications. I have a keen interest in the **MERN stack**, **React**, **React Native** and **Next.js**, and I'm always eager to explore new tools and technologies.
 
 ### Portfolio
 🔗 [Check out my portfolio](https://noormohammad.reactbd.com/)
@@ -35,6 +35,7 @@ Hi! I'm Noor Mohammad, a passionate **Full-Stack Developer** specializing in mod
 ### Development
 - 💻 Full-Stack Development
 - 🌐 MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- ⛓️ Mobile Application Development (React Native, Expo)
 - ⚛️ React.js & Next.js
 - 🎨 Tailwind CSS & Styled Components
 
@@ -84,21 +85,12 @@ app.listen(5000, () => console.log('Server running on port 5000'));
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noor-mohammad-2&show_icons=true&theme=radical" alt="Noor Mohammad's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-mohammad-2&theme=radical" alt="Noor Mohammad's GitHub streak" />
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCy5__t1v0hLfR_SmtvR56XQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://github.com/noorjsdivs/noorjsdivs/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/noor-mohammad-ab2245193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/noormohammad.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/Noorlalu143/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:noor.jsdivs@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email" /></a>
 </div>

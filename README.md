@@ -88,7 +88,7 @@ app.listen(5000, () => console.log('Server running on port 5000'));
 ![](https://github-readme-streak-stats.herokuapp.com/?user=noorjsdivs&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noorjsdivs&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
- ## 💰 You can help me by Donating
+ ## 💰 You can support me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/reactbd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/reactbd) 
 
 ---

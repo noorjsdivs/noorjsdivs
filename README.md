@@ -91,7 +91,7 @@ app.listen(5000, () => console.log('Server running on port 5000'));
 
 ## 📬 Let's Connect
 
-<div align="center">
+<div>
   <a href="https://github.com/noorjsdivs/noorjsdivs/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/noor-mohammad-ab2245193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/Noorlalu143/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>

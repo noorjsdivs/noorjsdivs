@@ -26,7 +26,10 @@ Hi! I'm Noor Mohammad, a passionate **Software Engineer** specializing in modern
 🔗 [Check out my portfolio](https://noormohammad.reactbd.com/)
 
 ### Blog
-📘 [Visit my blog](https://blog.reactbd.com/) for in-depth articles and tutorials on web development.
+📘 [Visit my blog](https://medium.com/@reactjsbd/) for in-depth articles and tutorials on web development.
+
+### Build with me
+📘 [Visit my blog](https://www.reactbd.com/) for learning and building the stack with me.
 
 ---
 

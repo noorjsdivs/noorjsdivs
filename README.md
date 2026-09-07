@@ -31,101 +31,95 @@ I care about shipping complete products: storefronts, admin dashboards, APIs, an
 
 ## Featured work
 
-Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects). Click a preview or **Source** for the paid kit; **Live** is the demo only.
-
-<p align="center">
-  <a href="https://buymeacoffee.com/reactbd/extras">
-    <img src="./assets/source-pulse.svg" alt="Source on Buy Me a Coffee" />
-  </a>
-</p>
+Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects). Preview and **Source** open the paid kit; **Live** is the demo only.
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://buymeacoffee.com/reactbd/e/523918">
-        <img src="./assets/projects/kids-store.gif" alt="Kids Store ecommerce — get source" width="400" />
+        <img src="./assets/projects/kids-store.jpg" alt="Kids Store ecommerce" width="400" />
       </a>
       <br />
       <strong>Kids Store</strong><br />
       Ecommerce — web, admin, and API<br />
-      <a href="https://kids.reactbd.com/en">Live</a> ·
-      <a href="https://buymeacoffee.com/reactbd/e/523918">Source</a>
+      <a href="https://kids.reactbd.com/en"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://buymeacoffee.com/reactbd/e/523918"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://buymeacoffee.com/reactbd/e/518205">
-        <img src="./assets/projects/entry.gif" alt="Entry ecommerce monorepo — get source" width="400" />
+        <img src="./assets/projects/entry.jpg" alt="Entry ecommerce monorepo" width="400" />
       </a>
       <br />
       <strong>Entry</strong><br />
       Production full-stack ecommerce monorepo<br />
-      <a href="https://entry.reactbd.com/">Live</a> ·
-      <a href="https://buymeacoffee.com/reactbd/e/518205">Source</a>
+      <a href="https://entry.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://buymeacoffee.com/reactbd/e/518205"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://buymeacoffee.com/reactbd/e/484104">
-        <img src="./assets/projects/gofarm.gif" alt="GoFarm Pro — get source" width="400" />
+        <img src="./assets/projects/gofarm.jpg" alt="GoFarm Pro" width="400" />
       </a>
       <br />
       <strong>GoFarm Pro</strong><br />
       Next.js 16 multi-vendor agricultural store<br />
-      <a href="https://gofarm.reactbd.com/">Live</a> ·
-      <a href="https://buymeacoffee.com/reactbd/e/484104">Source</a>
+      <a href="https://gofarm.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://buymeacoffee.com/reactbd/e/484104"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://buymeacoffee.com/reactbd/e/514308">
-        <img src="./assets/projects/tulos.gif" alt="Tulos ecommerce — get source" width="400" />
+        <img src="./assets/projects/tulos.jpg" alt="Tulos ecommerce" width="400" />
       </a>
       <br />
       <strong>Tulos</strong><br />
       Full-stack ecommerce — Next.js 16 + Tailwind v4<br />
-      <a href="https://tulos.reactbd.com/">Live</a> ·
-      <a href="https://buymeacoffee.com/reactbd/e/514308">Source</a>
+      <a href="https://tulos.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://buymeacoffee.com/reactbd/e/514308"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://buymeacoffee.com/reactbd/e/507176">
-        <img src="./assets/projects/birdseye.gif" alt="Bird's Eye SaaS ERP — get source" width="400" />
+        <img src="./assets/projects/birdseye.jpg" alt="Bird's Eye SaaS ERP" width="400" />
       </a>
       <br />
       <strong>Bird's Eye</strong><br />
       Next.js 16 SaaS / ERP boilerplate<br />
-      <a href="https://birdseye-live.reactbd.com/">Live</a> ·
-      <a href="https://buymeacoffee.com/reactbd/e/507176">Source</a>
+      <a href="https://birdseye-live.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://buymeacoffee.com/reactbd/e/507176"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://buymeacoffee.com/reactbd/e/475244">
-        <img src="./assets/projects/shopcartpro.gif" alt="Shopcart Pro — get source" width="400" />
+        <img src="./assets/projects/shopcartpro.jpg" alt="Shopcart Pro" width="400" />
       </a>
       <br />
       <strong>Shopcart Pro</strong><br />
       Ecommerce with admin and employee dashboards<br />
-      <a href="https://shopcartpro.reactbd.com/">Live</a> ·
-      <a href="https://buymeacoffee.com/reactbd/e/475244">Source</a>
+      <a href="https://shopcartpro.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://buymeacoffee.com/reactbd/e/475244"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://buymeacoffee.com/reactbd/e/499218">
-        <img src="./assets/projects/quickfood.gif" alt="Quick Food delivery — get source" width="400" />
+        <img src="./assets/projects/quickfood.jpg" alt="Quick Food delivery" width="400" />
       </a>
       <br />
       <strong>Quick Food</strong><br />
       Food delivery — Next.js 16, Sanity, Stripe<br />
-      <a href="https://quickfood.reactbd.com/">Live</a> ·
-      <a href="https://buymeacoffee.com/reactbd/e/499218">Source</a>
+      <a href="https://quickfood.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://buymeacoffee.com/reactbd/e/499218"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://buymeacoffee.com/reactbd/e/493505">
-        <img src="./assets/projects/babymart.gif" alt="BabyMart ecommerce monorepo — get source" width="400" />
+        <img src="./assets/projects/babymart.jpg" alt="BabyMart ecommerce monorepo" width="400" />
       </a>
       <br />
       <strong>BabyMart</strong><br />
       Web + mobile + admin + API monorepo<br />
-      <a href="https://babymart.reactbd.com/">Live</a> ·
-      <a href="https://buymeacoffee.com/reactbd/e/493505">Source</a>
+      <a href="https://babymart.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://buymeacoffee.com/reactbd/e/493505"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
   </tr>
 </table>

@@ -31,13 +31,19 @@ I care about shipping complete products: storefronts, admin dashboards, APIs, an
 
 ## Featured work
 
-Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
+Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects). Click a preview or **Source** for the paid kit; **Live** is the demo only.
+
+<p align="center">
+  <a href="https://buymeacoffee.com/reactbd/extras">
+    <img src="./assets/source-pulse.svg" alt="Source on Buy Me a Coffee" />
+  </a>
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://kids.reactbd.com/en">
-        <img src="./assets/projects/kids-store.jpg" alt="Kids Store ecommerce" width="400" />
+      <a href="https://buymeacoffee.com/reactbd/e/523918">
+        <img src="./assets/projects/kids-store.gif" alt="Kids Store ecommerce — get source" width="400" />
       </a>
       <br />
       <strong>Kids Store</strong><br />
@@ -46,8 +52,8 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <a href="https://buymeacoffee.com/reactbd/e/523918">Source</a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://entry.reactbd.com/">
-        <img src="./assets/projects/entry.jpg" alt="Entry ecommerce monorepo" width="400" />
+      <a href="https://buymeacoffee.com/reactbd/e/518205">
+        <img src="./assets/projects/entry.gif" alt="Entry ecommerce monorepo — get source" width="400" />
       </a>
       <br />
       <strong>Entry</strong><br />
@@ -58,8 +64,8 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://gofarm.reactbd.com/">
-        <img src="./assets/projects/gofarm.jpg" alt="GoFarm Pro" width="400" />
+      <a href="https://buymeacoffee.com/reactbd/e/484104">
+        <img src="./assets/projects/gofarm.gif" alt="GoFarm Pro — get source" width="400" />
       </a>
       <br />
       <strong>GoFarm Pro</strong><br />
@@ -68,8 +74,8 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <a href="https://buymeacoffee.com/reactbd/e/484104">Source</a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://tulos.reactbd.com/">
-        <img src="./assets/projects/tulos.jpg" alt="Tulos ecommerce" width="400" />
+      <a href="https://buymeacoffee.com/reactbd/e/514308">
+        <img src="./assets/projects/tulos.gif" alt="Tulos ecommerce — get source" width="400" />
       </a>
       <br />
       <strong>Tulos</strong><br />
@@ -80,8 +86,8 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://birdseye-live.reactbd.com/">
-        <img src="./assets/projects/birdseye.jpg" alt="Bird's Eye SaaS ERP" width="400" />
+      <a href="https://buymeacoffee.com/reactbd/e/507176">
+        <img src="./assets/projects/birdseye.gif" alt="Bird's Eye SaaS ERP — get source" width="400" />
       </a>
       <br />
       <strong>Bird's Eye</strong><br />
@@ -90,8 +96,8 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <a href="https://buymeacoffee.com/reactbd/e/507176">Source</a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://shopcartpro.reactbd.com/">
-        <img src="./assets/projects/shopcartpro.jpg" alt="Shopcart Pro" width="400" />
+      <a href="https://buymeacoffee.com/reactbd/e/475244">
+        <img src="./assets/projects/shopcartpro.gif" alt="Shopcart Pro — get source" width="400" />
       </a>
       <br />
       <strong>Shopcart Pro</strong><br />
@@ -102,8 +108,8 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://quickfood.reactbd.com/">
-        <img src="./assets/projects/quickfood.jpg" alt="Quick Food delivery" width="400" />
+      <a href="https://buymeacoffee.com/reactbd/e/499218">
+        <img src="./assets/projects/quickfood.gif" alt="Quick Food delivery — get source" width="400" />
       </a>
       <br />
       <strong>Quick Food</strong><br />
@@ -112,8 +118,8 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <a href="https://buymeacoffee.com/reactbd/e/499218">Source</a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://babymart.reactbd.com/">
-        <img src="./assets/projects/babymart.jpg" alt="BabyMart ecommerce monorepo" width="400" />
+      <a href="https://buymeacoffee.com/reactbd/e/493505">
+        <img src="./assets/projects/babymart.gif" alt="BabyMart ecommerce monorepo — get source" width="400" />
       </a>
       <br />
       <strong>BabyMart</strong><br />

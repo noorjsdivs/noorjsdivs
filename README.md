@@ -31,60 +31,118 @@ I care about shipping complete products: storefronts, admin dashboards, APIs, an
 
 ## Featured work
 
-Open-source tutorials and production kits.
+Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/noorjsdivs/orebishopping">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noorjsdivs&repo=orebishopping&theme=transparent&hide_border=true" alt="Orebi ecommerce" />
+    <td width="50%" valign="top" align="center">
+      <a href="https://kids.reactbd.com/en">
+        <img src="./assets/projects/kids-store.jpg" alt="Kids Store ecommerce" width="400" />
       </a>
+      <br />
+      <strong>Kids Store</strong><br />
+      Ecommerce — web, admin, and API<br />
+      <a href="https://kids.reactbd.com/en">Live</a> ·
+      <a href="https://github.com/noorjsdivs/kids-store-yt">Source</a>
     </td>
-    <td>
-      <a href="https://github.com/noorjsdivs/shopcartyt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noorjsdivs&repo=shopcartyt&theme=transparent&hide_border=true" alt="Shopcart ecommerce" />
+    <td width="50%" valign="top" align="center">
+      <a href="https://entry.reactbd.com/">
+        <img src="./assets/projects/entry.jpg" alt="Entry ecommerce monorepo" width="400" />
       </a>
+      <br />
+      <strong>Entry</strong><br />
+      Production full-stack ecommerce monorepo<br />
+      <a href="https://entry.reactbd.com/">Live</a> ·
+      <a href="https://github.com/noorjsdivs/entry-ecommerce-app-free">Source</a>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/noorjsdivs/babymart-yt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noorjsdivs&repo=babymart-yt&theme=transparent&hide_border=true" alt="Babymart ecommerce" />
+    <td width="50%" valign="top" align="center">
+      <a href="https://gofarm.reactbd.com/">
+        <img src="./assets/projects/gofarm.jpg" alt="GoFarm Pro" width="400" />
       </a>
+      <br />
+      <strong>GoFarm Pro</strong><br />
+      Next.js 16 multi-vendor agricultural store<br />
+      <a href="https://gofarm.reactbd.com/">Live</a> ·
+      <a href="https://github.com/noorjsdivs/gofarm-yt">Source</a>
     </td>
-    <td>
-      <a href="https://github.com/noorjsdivs/shopcartpro-yt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noorjsdivs&repo=shopcartpro-yt&theme=transparent&hide_border=true" alt="Shopcart Pro" />
+    <td width="50%" valign="top" align="center">
+      <a href="https://tulos.reactbd.com/">
+        <img src="./assets/projects/tulos.jpg" alt="Tulos ecommerce" width="400" />
       </a>
+      <br />
+      <strong>Tulos</strong><br />
+      Full-stack ecommerce — Next.js 16 + Tailwind v4<br />
+      <a href="https://tulos.reactbd.com/">Live</a> ·
+      <a href="https://github.com/noorjsdivs/tulos_updated">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://birdseye-live.reactbd.com/">
+        <img src="./assets/projects/birdseye.jpg" alt="Bird's Eye SaaS ERP" width="400" />
+      </a>
+      <br />
+      <strong>Bird's Eye</strong><br />
+      Next.js 16 SaaS / ERP boilerplate<br />
+      <a href="https://birdseye-live.reactbd.com/">Live</a> ·
+      <a href="https://reactbd.com/projects/birdseye-admin-dashboard-nextjs-tailwindcss-mongodb">Details</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://shopcartpro.reactbd.com/">
+        <img src="./assets/projects/shopcartpro.jpg" alt="Shopcart Pro" width="400" />
+      </a>
+      <br />
+      <strong>Shopcart Pro</strong><br />
+      Ecommerce with admin and employee dashboards<br />
+      <a href="https://shopcartpro.reactbd.com/">Live</a> ·
+      <a href="https://github.com/noorjsdivs/shopcartpro-yt">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://quickfood.reactbd.com/">
+        <img src="./assets/projects/quickfood.jpg" alt="Quick Food delivery" width="400" />
+      </a>
+      <br />
+      <strong>Quick Food</strong><br />
+      Food delivery — Next.js 16, Sanity, Stripe<br />
+      <a href="https://quickfood.reactbd.com/">Live</a> ·
+      <a href="https://github.com/noorjsdivs/quick-food-yt">Source</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://babymart.reactbd.com/">
+        <img src="./assets/projects/babymart.jpg" alt="BabyMart ecommerce monorepo" width="400" />
+      </a>
+      <br />
+      <strong>BabyMart</strong><br />
+      Web + mobile + admin + API monorepo<br />
+      <a href="https://babymart.reactbd.com/">Live</a> ·
+      <a href="https://github.com/noorjsdivs/babymart-yt">Source</a>
     </td>
   </tr>
 </table>
 
-| Project | What it is | Live |
-| --- | --- | --- |
-| [orebishopping](https://github.com/noorjsdivs/orebishopping) | Ecommerce storefront used as a teaching base | — |
-| [shopcartyt](https://github.com/noorjsdivs/shopcartyt) | Next.js ecommerce with cart, checkout, and admin | — |
-| [shopcartpro-yt](https://github.com/noorjsdivs/shopcartpro-yt) | Production Shopcart with admin dashboard | [shopcartpro.reactbd.com](https://shopcartpro.reactbd.com/) |
-| [babymart-yt](https://github.com/noorjsdivs/babymart-yt) | Web + mobile + admin + API monorepo | [babymart.reactbd.com](https://babymart.reactbd.com/) |
-| [tulos_updated](https://github.com/noorjsdivs/tulos_updated) | Full-stack ecommerce on Next.js + Tailwind | [tulos.reactbd.com](https://tulos.reactbd.com/) |
-
-More source, live demos, and paid kits: [reactbd.com/projects](https://reactbd.com/projects) · [shop](https://buymeacoffee.com/reactbd/extras)
+All projects, source, and kits: [reactbd.com/en/projects](https://reactbd.com/en/projects) · [shop](https://buymeacoffee.com/reactbd/extras)
 
 ---
 
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,postgres,prisma,graphql,firebase,tailwind,docker,aws,git,github,figma,vercel,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb&perline=10" alt="Stack row 1" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,graphql,firebase,redis,tailwind,docker,aws,gcp,vercel&perline=10" alt="Stack row 2" />
+  <img src="https://skillicons.dev/icons?i=netlify,git,github,githubactions,vscode,figma,postman,npm,pnpm,linux&perline=10" alt="Stack row 3" />
 </div>
 
 <br/>
 
-**Frontend** — React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Zustand, Motion  
+**Frontend** — HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS  
 **Mobile** — React Native, Expo  
 **Backend** — Node.js, Express, REST, GraphQL  
-**Data** — MongoDB, PostgreSQL, Prisma, Sanity, Firebase  
-**Platform** — Vercel, Docker, AWS, GitHub
+**Data** — MongoDB, PostgreSQL, Prisma, Firebase, Redis, Sanity  
+**Platform** — Vercel, Netlify, Docker, AWS, GCP, GitHub Actions, Figma, VS Code
 
 ---
 

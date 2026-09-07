@@ -11,7 +11,7 @@ I build production web and mobile products with **React**, **Next.js**, and **Re
 [![Profile views](https://komarev.com/ghpvc/?username=noorjsdivs&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/noorjsdivs)
 [![Location](https://img.shields.io/badge/Dhaka-Bangladesh-0e75b6?style=flat-square)](https://github.com/noorjsdivs)
 
-[Portfolio](https://noormohammad.reactbd.com/) · [ReactBD](https://reactbd.com/) · [YouTube](https://www.youtube.com/@reactjsBD) · [Blog](https://medium.com/@reactjsbd/) · [npm](https://www.npmjs.com/~dev.noor_mohammad)
+[Portfolio](https://noormohammad.reactbd.com/) · [ReactBD](https://reactbd.com/) · [YouTube](https://www.youtube.com/@reactjsBD) · [Blog](https://medium.com/@thebuildersplaybook/) · [npm](https://www.npmjs.com/~dev.noor_mohammad)
 
 </div>
 
@@ -43,7 +43,7 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <strong>Kids Store</strong><br />
       Ecommerce — web, admin, and API<br />
       <a href="https://kids.reactbd.com/en">Live</a> ·
-      <a href="https://github.com/noorjsdivs/kids-store-yt">Source</a>
+      <a href="https://buymeacoffee.com/reactbd/e/523918">Source</a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://entry.reactbd.com/">
@@ -53,7 +53,7 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <strong>Entry</strong><br />
       Production full-stack ecommerce monorepo<br />
       <a href="https://entry.reactbd.com/">Live</a> ·
-      <a href="https://github.com/noorjsdivs/entry-ecommerce-app-free">Source</a>
+      <a href="https://buymeacoffee.com/reactbd/e/518205">Source</a>
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <strong>GoFarm Pro</strong><br />
       Next.js 16 multi-vendor agricultural store<br />
       <a href="https://gofarm.reactbd.com/">Live</a> ·
-      <a href="https://github.com/noorjsdivs/gofarm-yt">Source</a>
+      <a href="https://buymeacoffee.com/reactbd/e/484104">Source</a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://tulos.reactbd.com/">
@@ -75,7 +75,7 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <strong>Tulos</strong><br />
       Full-stack ecommerce — Next.js 16 + Tailwind v4<br />
       <a href="https://tulos.reactbd.com/">Live</a> ·
-      <a href="https://github.com/noorjsdivs/tulos_updated">Source</a>
+      <a href="https://buymeacoffee.com/reactbd/e/514308">Source</a>
     </td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <strong>Bird's Eye</strong><br />
       Next.js 16 SaaS / ERP boilerplate<br />
       <a href="https://birdseye-live.reactbd.com/">Live</a> ·
-      <a href="https://reactbd.com/projects/birdseye-admin-dashboard-nextjs-tailwindcss-mongodb">Details</a>
+      <a href="https://buymeacoffee.com/reactbd/e/507176">Source</a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://shopcartpro.reactbd.com/">
@@ -97,7 +97,7 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <strong>Shopcart Pro</strong><br />
       Ecommerce with admin and employee dashboards<br />
       <a href="https://shopcartpro.reactbd.com/">Live</a> ·
-      <a href="https://github.com/noorjsdivs/shopcartpro-yt">Source</a>
+      <a href="https://buymeacoffee.com/reactbd/e/475244">Source</a>
     </td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <strong>Quick Food</strong><br />
       Food delivery — Next.js 16, Sanity, Stripe<br />
       <a href="https://quickfood.reactbd.com/">Live</a> ·
-      <a href="https://github.com/noorjsdivs/quick-food-yt">Source</a>
+      <a href="https://buymeacoffee.com/reactbd/e/499218">Source</a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://babymart.reactbd.com/">
@@ -119,7 +119,7 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects).
       <strong>BabyMart</strong><br />
       Web + mobile + admin + API monorepo<br />
       <a href="https://babymart.reactbd.com/">Live</a> ·
-      <a href="https://github.com/noorjsdivs/babymart-yt">Source</a>
+      <a href="https://buymeacoffee.com/reactbd/e/493505">Source</a>
     </td>
   </tr>
 </table>

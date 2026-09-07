@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="255" viewBox="0 0 495 255" role="img" aria-labelledby="title desc" xml:space="preserve">
+  <title id="title">Top languages — noorjsdivs</title>
+  <desc id="desc">Language mix by public repos: TypeScript 65%, JavaScript 30%, HTML 4%, CSS 1%.</desc>
+  <defs>
+    <linearGradient id="langsBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="495" height="255" rx="12" fill="url(#langsBg)" stroke="#30363d" stroke-width="1"/>
+
+  <rect width="495" height="36" rx="12" fill="#161b22"/>
+  <rect y="24" width="495" height="12" fill="#161b22"/>
+  <circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="18" r="5" fill="#27c93f"/>
+  <text x="248" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">github.langs.spec.ts</text>
+  <text x="468" y="22" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#58a6ff">SPEC</text>
+
+  <rect x="0" y="36" width="42" height="219" fill="#0d1117"/>
+  <line x1="42" y1="36" x2="42" y2="255" stroke="#21262d"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <text x="22" y="62" text-anchor="middle" fill="#484f58">1</text>
+    <text x="56" y="62" fill="#8b949e">// mix by public repository count</text>
+
+    <text x="22" y="86" text-anchor="middle" fill="#484f58">2</text>
+    <text x="56" y="86"><tspan fill="#ff7b72">export const</tspan><tspan fill="#e6edf3">&#160;languages = {</tspan></text>
+
+    <text x="22" y="118" text-anchor="middle" fill="#484f58">3</text>
+    <circle cx="64" cy="114" r="5" fill="#3178c6"/>
+    <text x="76" y="118"><tspan fill="#7ee787">TypeScript</tspan><tspan fill="#e6edf3">:&#160;</tspan><tspan fill="#79c0ff">0.65</tspan><tspan fill="#e6edf3">,</tspan></text>
+    <rect x="250" y="108" width="220" height="8" rx="4" fill="#21262d"/>
+    <rect x="250" y="108" width="143" height="8" rx="4" fill="#3178c6"/>
+    <text x="478" y="118" text-anchor="end" font-size="11" fill="#8b949e">65%</text>
+
+    <text x="22" y="150" text-anchor="middle" fill="#484f58">4</text>
+    <circle cx="64" cy="146" r="5" fill="#f1e05a"/>
+    <text x="76" y="150"><tspan fill="#7ee787">JavaScript</tspan><tspan fill="#e6edf3">:&#160;</tspan><tspan fill="#79c0ff">0.30</tspan><tspan fill="#e6edf3">,</tspan></text>
+    <rect x="250" y="140" width="220" height="8" rx="4" fill="#21262d"/>
+    <rect x="250" y="140" width="66" height="8" rx="4" fill="#f1e05a"/>
+    <text x="478" y="150" text-anchor="end" font-size="11" fill="#8b949e">30%</text>
+
+    <text x="22" y="182" text-anchor="middle" fill="#484f58">5</text>
+    <circle cx="64" cy="178" r="5" fill="#e34c26"/>
+    <text x="76" y="182"><tspan fill="#7ee787">HTML</tspan><tspan fill="#e6edf3">:&#160;</tspan><tspan fill="#79c0ff">0.04</tspan><tspan fill="#e6edf3">,</tspan></text>
+    <rect x="250" y="172" width="220" height="8" rx="4" fill="#21262d"/>
+    <rect x="250" y="172" width="18" height="8" rx="4" fill="#e34c26"/>
+    <text x="478" y="182" text-anchor="end" font-size="11" fill="#8b949e">4%</text>
+
+    <text x="22" y="214" text-anchor="middle" fill="#484f58">6</text>
+    <circle cx="64" cy="210" r="5" fill="#563d7c"/>
+    <text x="76" y="214"><tspan fill="#7ee787">CSS</tspan><tspan fill="#e6edf3">:&#160;</tspan><tspan fill="#79c0ff">0.01</tspan><tspan fill="#e6edf3">,</tspan></text>
+    <rect x="250" y="204" width="220" height="8" rx="4" fill="#21262d"/>
+    <rect x="250" y="204" width="12" height="8" rx="4" fill="#563d7c"/>
+    <text x="478" y="214" text-anchor="end" font-size="11" fill="#8b949e">1%</text>
+
+    <text x="22" y="242" text-anchor="middle" fill="#484f58">7</text>
+    <text x="56" y="242"><tspan fill="#e6edf3">}&#160;</tspan><tspan fill="#ff7b72">satisfies</tspan><tspan fill="#e6edf3">&#160;Record&lt;Lang, Percent&gt;</tspan></text>
+  </g>
+</svg>

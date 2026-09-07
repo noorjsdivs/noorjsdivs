@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="255" viewBox="0 0 495 255" role="img" aria-labelledby="title desc" xml:space="preserve">
+  <title id="title">GitHub stats — noorjsdivs</title>
+  <desc id="desc">Public GitHub profile spec: 173 repositories, 1,357 stars, 923 forks, 846 followers.</desc>
+  <defs>
+    <linearGradient id="statsBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="495" height="255" rx="12" fill="url(#statsBg)" stroke="#30363d" stroke-width="1"/>
+
+  <!-- title bar -->
+  <rect width="495" height="36" rx="12" fill="#161b22"/>
+  <rect y="24" width="495" height="12" fill="#161b22"/>
+  <circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="18" r="5" fill="#27c93f"/>
+  <text x="248" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">github.stats.spec.ts</text>
+  <text x="468" y="22" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" fill="#58a6ff">SPEC</text>
+
+  <!-- gutter -->
+  <rect x="0" y="36" width="42" height="219" fill="#0d1117"/>
+  <line x1="42" y1="36" x2="42" y2="255" stroke="#21262d"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <text x="22" y="62" text-anchor="middle" fill="#484f58">1</text>
+    <text x="56" y="62" fill="#8b949e">// Noor Mohammad  ·  @noorjsdivs</text>
+
+    <text x="22" y="86" text-anchor="middle" fill="#484f58">2</text>
+    <text x="56" y="86"><tspan fill="#ff7b72">export const</tspan><tspan fill="#e6edf3">&#160;github = {</tspan></text>
+
+    <text x="22" y="110" text-anchor="middle" fill="#484f58">3</text>
+    <text x="72" y="110"><tspan fill="#7ee787">user</tspan><tspan fill="#e6edf3">:&#160;</tspan><tspan fill="#a5d6ff">"noorjsdivs"</tspan><tspan fill="#e6edf3">,</tspan></text>
+
+    <text x="22" y="134" text-anchor="middle" fill="#484f58">4</text>
+    <text x="72" y="134"><tspan fill="#7ee787">repos</tspan><tspan fill="#e6edf3">:&#160;</tspan><tspan fill="#79c0ff">173</tspan><tspan fill="#e6edf3">,</tspan></text>
+
+    <text x="22" y="158" text-anchor="middle" fill="#484f58">5</text>
+    <text x="72" y="158"><tspan fill="#7ee787">stars</tspan><tspan fill="#e6edf3">:&#160;</tspan><tspan fill="#79c0ff">1357</tspan><tspan fill="#e6edf3">,</tspan></text>
+
+    <text x="22" y="182" text-anchor="middle" fill="#484f58">6</text>
+    <text x="72" y="182"><tspan fill="#7ee787">forks</tspan><tspan fill="#e6edf3">:&#160;</tspan><tspan fill="#79c0ff">923</tspan><tspan fill="#e6edf3">,</tspan></text>
+
+    <text x="22" y="206" text-anchor="middle" fill="#484f58">7</text>
+    <text x="72" y="206"><tspan fill="#7ee787">followers</tspan><tspan fill="#e6edf3">:&#160;</tspan><tspan fill="#79c0ff">846</tspan><tspan fill="#e6edf3">,</tspan></text>
+
+    <text x="22" y="230" text-anchor="middle" fill="#484f58">8</text>
+    <text x="56" y="230"><tspan fill="#e6edf3">}&#160;</tspan><tspan fill="#ff7b72">as const</tspan></text>
+  </g>
+
+  <!-- metric chips -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <rect x="300" y="96" width="170" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="385" y="116" text-anchor="middle" font-size="10" fill="#8b949e">TOTAL STARS</text>
+    <text x="385" y="136" text-anchor="middle" font-size="18" font-weight="700" fill="#e6edf3">1,357</text>
+
+    <rect x="300" y="158" width="170" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="385" y="178" text-anchor="middle" font-size="10" fill="#8b949e">FOLLOWERS</text>
+    <text x="385" y="198" text-anchor="middle" font-size="18" font-weight="700" fill="#58a6ff">846</text>
+  </g>
+</svg>

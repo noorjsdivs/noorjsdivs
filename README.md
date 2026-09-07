@@ -168,11 +168,25 @@ Things people can use today, not just watch.
 
 ## GitHub
 
+Public profile spec — `github.stats.spec.ts` and `github.langs.spec.ts`.
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/noorjsdivs">
+        <img src="./assets/github/stats.svg" alt="GitHub stats spec for noorjsdivs" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/noorjsdivs?tab=repositories">
+        <img src="./assets/github/langs.svg" alt="Top languages spec for noorjsdivs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noorjsdivs&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjsdivs&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=noorjsdivs&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=noorjsdivs&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </div>
 
 ---
